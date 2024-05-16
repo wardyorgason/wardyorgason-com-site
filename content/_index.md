@@ -41,13 +41,13 @@ sections:
     content:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
+      username: ward
   - block: skills
     content:
       title: Skills
       text: ''
       # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
+      username: ward
     design:
       columns: '1'
   - block: experience
@@ -62,10 +62,10 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
+        - title: Senior Software Engineer (Full Stack)
+          company: Linktrust Systems / SpaceJet Media
+          company_url: 'https://linktrust.com'
+          company_logo: lt-small-new-2
           location: California
           date_start: '2021-01-01'
           date_end: ''
