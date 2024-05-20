@@ -50,16 +50,16 @@ skills:
         percent: 90
         icon: python
         icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
       - name: MySQL / MSSQL
         description: ''
         percent: 70
         icon: database
         icon_pack: fas
+      - name: VueJS
+        description: ''
+        percent: 20
+        icon: vuejs
+        icon_pack: fab
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
