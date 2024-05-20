@@ -78,7 +78,7 @@ sections:
           company: SpaceJet Media (LinkTrust)
           company_url: 'https://spacejetmedia.com'
           company_logo: spacejet-cropped
-          location: California
+          location: Utah
           date_start: '2022-01-01'
           date_end: '2022-12-31'
           description: |2-
