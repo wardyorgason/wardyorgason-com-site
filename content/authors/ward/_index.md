@@ -64,9 +64,14 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
+      - name: Rhythm Games (DDR, BeatSaber, etc)
+        description: ''
+        percent: 70
+        icon: gamepad
+        icon_pack: fa
       - name: Hiking
         description: ''
-        percent: 60
+        percent: 37
         icon: person-hiking
         icon_pack: fas
       - name: Cats
@@ -74,11 +79,7 @@ skills:
         percent: 1
         icon: cat
         icon_pack: fas
-      - name: Video Games
-        description: ''
-        percent: 70
-        icon: camera-retro
-        icon_pack: fas
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -111,7 +112,7 @@ social:
 highlight_name: true
 ---
 
-Ward is a Senior Full Stack Engineer working for LinkTrust Systems. His work includes regular use of the .NET libraries (both old and new) with a strong preference for the newer, cross-platform editions of .NET. On his spare time, he maintains numerous self hosted sites and projects, some of which are built from scratch (almost all for personal use).
+Ward is a Senior Full Stack Engineer working for LinkTrust Systems. His work includes regular use of the .NET libraries (both old and new) with a strong preference for the newer, cross-platform editions of .NET. On his spare time, he maintains numerous self hosted sites and projects, some of which are built himself (almost all for personal use).
 
 He started coding by teaching himself how to program his graphing calculator in junior high, and with the help of many teachers and mentors has progressed since then. He sees software development as a lifestyle rather than just work and loves to spend his free time learning how to be better.
 {style="text-align: justify;"}
