@@ -63,11 +63,11 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Senior Software Engineer (Full Stack)
-          company: Linktrust Systems / SpaceJet Media
+          company: Linktrust Systems & SpaceJet Media
           company_url: 'https://linktrust.com'
           company_logo: lt-small-new-2
-          location: California
-          date_start: '2021-01-01'
+          location: Utah
+          date_start: '2023-01-01'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -75,10 +75,10 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
+        - title: Mid Software Engineer (Full Stack) 
+          company: SpaceJet Media (LinkTrust)
+          company_url: 'https://spacejetmedia.com'
+          company_logo: spacejet-cropped
           location: California
           date_start: '2016-01-01'
           date_end: '2020-12-31'

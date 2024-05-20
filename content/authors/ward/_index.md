@@ -55,12 +55,7 @@ skills:
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: MySQL
-        description: ''
-        percent: 60
-        icon: database
-        icon_pack: fas
-      - name: MSSQL
+      - name: MySQL / MSSQL
         description: ''
         percent: 70
         icon: database
