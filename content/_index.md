@@ -84,6 +84,16 @@ sections:
           description: |2-
               * Worked on and established the base architecture and conventions for a new internal reporting tool. Built on .Net 7, MySQL and Blazor.
               * Worked with superiors and other team members in clarifying vague instructions and designed a reporting attribution method necessary to the business.
+        - title: Programmer III 
+          company: Utah County
+          company_url: 'https://www.utahcounty.gov/'
+          company_logo: utah-county
+          location: Utah
+          date_start: '2021-10-18'
+          date_end: '2021-12-31'
+          description: |2-
+              * Worked on and established the base architecture and conventions for a new internal reporting tool. Built on .Net 7, MySQL and Blazor.
+              * Worked with superiors and other team members in clarifying vague instructions and designed a reporting attribution method necessary to the business.
 
     design:
       columns: '2'
